@@ -1,0 +1,35 @@
+glavnoe
+{
+   text-indent: 20px;
+    margin: 50px;
+    max-width:  500px;
+    min-width: 50px;
+    width: 100%;
+    max-height: 570px; 
+    min-height: 140px;
+    height: 100%;
+    background-color: #393F47;
+}
+div.dosty
+{
+    display: flex;
+    position: absolute;
+    max-width: 2000px;
+    min-width: 320px;
+    width: 100%;
+    max-height: 2000px;
+    height: auto;
+    min-height: 400px;
+    left: 0px;
+    top: 105px;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+}
+photo
+{
+    margin: 50px ;
+    max-height: 570px;
+}

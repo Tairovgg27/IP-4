@@ -1,0 +1,45 @@
+
+div.telo
+{  position: absolute;
+    max-width: 2000px;
+    min-width: 320px;
+    width: 100%;
+    max-height: 1200px;
+    height: 100%;
+    min-height: 400px;
+    left: 0px;
+    top: 105px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+container
+{ 
+    margin: 20px;
+    top: 100px;
+    position: relative;
+    border-radius: 15px;
+    height: 50px;
+    max-width: 300px;
+    min-width: 200px;
+    font-weight: 400;
+    width: 100%;
+    display: flex;
+    background: #C8A35F;
+    justify-content: center;
+}
+text1
+{
+    width: auto;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 35px;
+   color: #FFFFFF;
+   text-align: center;
+   text-indent: 20px
+   
+} 
